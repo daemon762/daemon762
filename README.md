@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @dvasmi762
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...machine learning
-- 📫 How to reach me ...vamsi---0007
-- 😄 Pronouns: ...hello
-- ⚡ Fun fact: ...you are gay
+Vamsi | Machine Learning Engineer
+Building production-grade AI systems that bridge the gap between research and deployment.
 
-<!---
-daemon762/daemon762 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ About Me:
+I am an ML Engineer focused on creating scalable, automated machine learning pipelines (MLOps). I don't just train models; I build the infrastructure that keeps them running efficiently in production.
+
+Currently working on:  Optimizing RAG pipelines for legal tech
+
+Learning: Advanced CUDA programming and Distributed Training.
+
+Ask me about: Hyperparameter tuning, Model Quantization, and Dockerizing ML apps.
