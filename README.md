@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daemon762
+- 👋 Hi, I’m @dvasmi762
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...machine learning
